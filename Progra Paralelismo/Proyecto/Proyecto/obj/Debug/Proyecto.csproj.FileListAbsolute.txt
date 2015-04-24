@@ -1,0 +1,16 @@
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.InformacionAlgCiclico.resources
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.InformacionBurbuja.resources
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.InformacionFibonachi.resources
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.VentanaPrincipal.resources
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.VentanaAlgoritmos.resources
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.VentanaProcesador.resources
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Interop.MsRdpSessionManager.dll
+C:\Users\Crisly\Documents\Visual Studio 2012\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.ResolveComReference.cache
